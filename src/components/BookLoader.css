@@ -1,0 +1,65 @@
+.loader-container {
+  position: fixed;
+  inset: 0;
+  background-color: #1a1a1a; /* Fallback color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.loader-bg-image {
+  position: absolute;
+  inset: 0;
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/choicescraft-2af32.firebasestorage.app/o/dev-uploads%2F3f9d50a2-2f3b-4c0a-9d95-257a05904940.webp?alt=media&token=e937d57e-1282-4161-9c3f-4277b5879a83');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.3;
+}
+
+.loader-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle, transparent 50%, rgba(0,0,0,0.7) 100%);
+}
+
+.loader-content-wrapper {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  color: hsl(var(--primary-foreground));
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.pulsing-dots {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.pulsing-dots div {
+  width: 12px;
+  height: 12px;
+  background-color: hsl(var(--primary));
+  border-radius: 50%;
+  animation: pulse 1.4s infinite ease-in-out both;
+}
+
+.pulsing-dots div:nth-child(1) {
+  animation-delay: -0.32s;
+}
+
+.pulsing-dots div:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+@keyframes pulse {
+  0%, 80%, 100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1.0);
+  }
+}

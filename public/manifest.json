@@ -1,0 +1,21 @@
+{
+  "name": "EchoForge",
+  "short_name": "EchoForge",
+  "description": "Craft Your Narrative. Forge Your World.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1ede2",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

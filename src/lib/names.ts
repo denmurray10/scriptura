@@ -1,0 +1,65 @@
+
+export const maleFirstNames = [
+    "Alistair", "Arion", "Arthur", "Asher", "Atticus", "August", "Balthazar", "Barnaby", "Bartholomew", "Bastian", 
+    "Benedict", "Blaise", "Byron", "Caius", "Callum", "Caspian", "Cassius", "Cedric", "Corbin", "Cyrus", 
+    "Damian", "Dante", "Darius", "Declan", "Dorian", "Draco", "Edmund", "Elias", "Elijah", "Emil", 
+    "Evander", "Ezekiel", "Ezra", "Felix", "Ferdinand", "Finnian", "Florian", "Flynn", "Gideon", "Gareth", 
+    "Gawain", "Geoffrey", "Gideon", "Griffin", "Hadrian", "Hector", "Horatio", "Ignatius", "Ivor", "Jasper", 
+    "Jude", "Julian", "Kael", "Killian", "Lancelot", "Lazarus", "Leander", "Leopold", "Lorcan", "Lucian", 
+    "Lucius", "Lysander", "Magnus", "Malachi", "Maximilian", "Milo", "Montgomery", "Nathaniel", "Nico", "Nikolai", 
+    "Oberon", "Octavius", "Orion", "Orlando", "Oscar", "Othello", "Percival", "Peregrine", "Phineas", "Quentin", 
+    "Quintus", "Rafael", "Raphael", "Remus", "Rhys", "Roderick", "Roman", "Ronan", "Rowan", "Rufus", 
+    "Sebastian", "Silas", "Soren", "Stellan", "Tadhg", "Thaddeus", "Theodore", "Theron", "Thorin", "Tiberius", 
+    "Tobias", "Tristan", "Ulysses", "Uriah", "Valentine", "Valerius", "Victor", "Viggo", "Vincent", "Xavier", 
+    "Zane", "Zephyr", "Zoltan", "Aldric", "Brand", "Caelan", "Darian", "Eamon", "Fabian", "Gunnar", 
+    "Jareth", "Kaelen", "Leif", "Merek", "Niall", "Orin", "Perrin", "Roric", "Stellan", "Talon", 
+    "Ulrich", "Vance", "Warrick", "Xylos", "Yorick", "Zephan", "Aethelred", "Brom", "Corvus", "Draven"
+];
+
+export const femaleFirstNames = [
+    "Acantha", "Adelia", "Adora", "Aeliana", "Ariadne", "Aisling", "Aithne", "Althea", "Amara", "Anais", 
+    "Andromeda", "Anemone", "Anthea", "Aoife", "Apolline", "Arden", "Ariadne", "Astra", "Astrid", "Athena", 
+    "Aurelia", "Aurora", "Beatrix", "Bellatrix", "Bronwen", "Bryony", "Calista", "Calliope", "Carys", "Cassandra", 
+    "Celestia", "Cerys", "Circe", "Clio", "Cora", "Cordelia", "Cressida", "Cyra", "Dahlia", "Daphne", 
+    "Delphine", "Demelza", "Desdemona", "Echo", "Eira", "Eithne", "Elara", "Electra", "Elestren", "Eliza", 
+    "Elowen", "Elysia", "Eowyn", "Evadne", "Evangeline", "Fae", "Fawn", "Fay", "Fenella", "Ffion", 
+    "Fiora", "Fleur", "Freya", "Galatea", "Genevieve", "Ginevra", "Gwendolen", "Helena", "Hesperia", "Ianthe", 
+    "Ignacia", "Imogen", "Ingrid", "Iona", "Iridian", "Isabeau", "Isolde", "Jocasta", "Juniper", "Juno", 
+    "Kallisto", "Kerensa", "Keziah", "Leda", "Lilith", "Linnea", "Livia", "Lorelei", "Lucia", "Luna", 
+    "Lyra", "Maeve", "Magdalena", "Marcella", "Mazarine", "Medea", "Melisande", "Minerva", "Morwenna", "Myrna", 
+    "Niamh", "Nola", "Odessa", "Olympia", "Ondine", "Ophelia", "Oriana", "Orla", "Pandora", "Parthenia", 
+    "Penelope", "Perdita", "Persephone", "Petra", "Phaedra", "Philippa", "Portia", "Primrose", "Rhiannon", "Romola", 
+    "Rosalind", "Rowena", "Sabina", "Sabrina", "Saoirse", "Saskia", "Seraphina", "Silvana", "Sunniva", "Tabitha", 
+    "Tamsin", "Tatiana", "Thalia", "Thea", "Theia", "Theodora", "Thisbe", "Thyra", "Titania", "Xanthe", 
+    "Xylia", "Yseult", "Zelda", "Zenobia", "Zephyrine", "Zinnia", "Zora", "Zosime", "Elara", "Lyra"
+];
+
+export const surnames = [
+    "Ashwood", "Astor", "Avalon", "Bainbridge", "Barclay", "Beaufort", "Beaumont", "Blackwood", "Blanchard", "Bradshaw", 
+    "Braxton", "Brewster", "Bridgewater", "Brock", "Brook", "Burke", "Burnham", "Caldwell", "Calhoun", "Calloway", 
+    "Carrington", "Cartwright", "Chadwick", "Chamberlain", "Chandler", "Chapman", "Clairmont", "Clayton", "Clifford", "Colbert", 
+    "Cole", "Conrad", "Covington", "Crawford", "Cromwell", "Dalton", "Davenport", "Dawson", "Delacroix", "Devereux", 
+    "Donovan", "Draper", "Driscoll", "Drummond", "Dudley", "Dunbar", "Dupont", "Eastwood", "Eaton", "Edgecombe", 
+    "Ellington", "Fairchild", "Fairfax", "Falkner", "Farnsworth", "Faraday", "Fawcett", "Finch", "Fitzgerald", "Fletcher", 
+    "Forrester", "Forsythe", "Fox", "Gables", "Gage", "Galloway", "Gardiner", "Garland", "Garrison", "Gatsby", 
+    "Germain", "Gideon", "Gilmore", "Gladstone", "Godfrey", "Goodwin", "Granger", "Grantham", "Graves", "Greenwood", 
+    "Gresham", "Grey", "Grimm", "Hale", "Halifax", "Halloway", "Hargrave", "Harrington", "Hathaway", "Hawthorne", 
+    "Hayden", "Hayes", "Hemlock", "Hendrix", "Hepburn", "Holloway", "Holt", "Hughes", "Huntington", "Huxley", 
+    "Ironwood", "Ives", "Jacobs", "Jameson", "Javier", "Jennings", "Jude", "Kane", "Kavanaugh", "Keating", 
+    "Keats", "Kensington", "Kent", "Kincaid", "King", "Kingsley", "Knight", "Lachlan", "Lancaster", "Langdon", 
+    "Langley", "Larkin", "LaSalle", "Lawford", "Lawrence", "Leighton", "Lennox", "Livingston", "Locke", "Lockhart", 
+    "Lovecraft", "Lowell", "Lynch", "Lyons", "MacAlister", "MacArthur", "MacDonald", "MacLeod", "Madison", "Maguire", 
+    "Maitland", "Manning", "Marlowe", "Marsh", "Marshall", "Maxwell", "Mayfair", "McCoy", "McAllister", "McDowell", 
+    "McGregor", "McIntyre", "McKenna", "McKinley", "McLaren", "McLeod", "McMahon", "Mercer", "Merrick", "Merritt", 
+    "Middleton", "Monroe", "Montgomery", "Montoya", "Moody", "Moore", "Morgan", "Morrison", "Mortimer", "Muir", 
+    "Nash", "Nightingale", "Noble", "North", "Northwood", "Oakley", "O'Connell", "O'Malley", "Orwell", "Osborne", 
+    "Paige", "Parrish", "Peabody", "Pembroke", "Pendleton", "Penhaligon", "Peregrine", "Pettigrew", "Peyton", "Pierce", 
+    "Prescott", "Preston", "Quincy", "Radcliffe", "Ramsey", "Randall", "Redwood", "Reed", "Remington", "Rhodes", 
+    "Richards", "Ridgeway", "Rivers", "Rockwell", "Rousseau", "Rowan", "Rutherford", "Salinger", "Salisbury", "Savage", 
+    "Sawyer", "Saxon", "Scarlett", "Scott", "Seymour", "Shaw", "Sheffield", "Shelby", "Sinclair", "Slade", 
+    "Somerset", "Spencer", "Sterling", "St. Clair", "Stone", "Storm", "Strauss", "Sutherland", "Sutton", "Swift", 
+    "Talbot", "Tate", "Thatcher", "Thorne", "Thornton", "Tolstoy", "Townsend", "Travers", "Underwood", "Vance", 
+    "Vanderbilt", "Vaughn", "Veridian", "Wainwright", "Wallace", "Walsh", "Warren", "Washington", "Waverly", "Westwood", 
+    "Whitaker", "Whitfield", "Wilder", "Winchester", "Windsor", "Winthrop", "Winter", "Wolfe", "Woodward", "Wyatt", 
+    "Wilde", "Black", "Brown", "Green", "White", "Gray", "Red", "Blue", "Gold", "Silver"
+];
