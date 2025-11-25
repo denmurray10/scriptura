@@ -51,8 +51,10 @@ Export or share completed stories
 Contributing
 Suggestions, feedback, and contributions are always welcome. Please open an issue or submit a pull request.
 
-Licence
-Distributed under the MIT Licence. See LICENCE for details.
+License
+Copyright 2025 Dennis Murray
+All rights reserved. 
+The use, copying, modification, distribution, or creation of derivative works from this code is prohibited without explicit permission from the copyright holder.
 
 Author
 Developed by denmurray10.
